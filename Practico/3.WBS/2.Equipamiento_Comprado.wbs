@@ -17,62 +17,50 @@
 		<tasks>
 			<task ID="0" UniqueID="0" OutlineLevel="0" Name="Equipamiento_Comprado" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes"/>
 			<task ID="1" UniqueID="1" OutlineLevel="1" Name="Equipamiento Comprado" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="2" UniqueID="39" OutlineLevel="2" Name="Planificar Requerimientos" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="2" UniqueID="39" OutlineLevel="2" Name="Planificaci&#243;n de Requerimientos de Compras" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="3" UniqueID="40" OutlineLevel="3" Name="Politicas de Compra Establecidas" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="4" UniqueID="42" OutlineLevel="4" Name="Parametros de Costo Establecidos" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="5" UniqueID="55" OutlineLevel="5" Name="Confeccionar Parametros de Costo de Infraestructura" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="6" UniqueID="56" OutlineLevel="5" Name="Confeccionr Parametros de Costo de Mobiliario" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="5" UniqueID="55" OutlineLevel="5" Name="Confeccionar Parametrizaci&#243;n de Costo de Infraestructura" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="6" UniqueID="56" OutlineLevel="5" Name="Confeccionar Parametrizaci&#243;n de Costo de Mobiliario" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="7" UniqueID="43" OutlineLevel="4" Name="Parametros de Disponibilidad Establecidos" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="8" UniqueID="44" OutlineLevel="4" Name="Parametros de Cantidad Establecidos" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="9" UniqueID="60" OutlineLevel="5" Name="Confeccionar Parametros de Infraestructura" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="10" UniqueID="61" OutlineLevel="5" Name="Confeccionar Parametros de Mobiliario" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="9" UniqueID="60" OutlineLevel="5" Name="Confeccionar Parametrizaci&#243;n de Equipamiento Inform&#225;tico" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="10" UniqueID="61" OutlineLevel="5" Name="Confeccionar Parametrizaci&#243;n de Mobiliario" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="11" UniqueID="63" OutlineLevel="4" Name="Parametros de Garantia Establecidos" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="12" UniqueID="41" OutlineLevel="3" Name="Informes Tecnicos Confeccionados" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="13" UniqueID="45" OutlineLevel="4" Name="Realizar Informe de Pedido de Infraestructura" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="12" UniqueID="41" OutlineLevel="3" Name="Informes Tecnicos Aprobados" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="13" UniqueID="45" OutlineLevel="4" Name="Realizar Informe de Pedido de Equipamiento Inform&#225;tico" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="14" UniqueID="46" OutlineLevel="4" Name="Realizar Informe de Pedido de Mobiliario" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="15" UniqueID="51" OutlineLevel="3" Name="Informes Aprobados" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="16" UniqueID="52" OutlineLevel="4" Name="Verificar Informes" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="17" UniqueID="53" OutlineLevel="4" Name="Verificar Cobertura de Requerimientos" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="18" UniqueID="3" OutlineLevel="2" Name="Cotizaciones Realizadas" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="19" UniqueID="7" OutlineLevel="3" Name="Cotizacion Infraestructura Realizada" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="20" UniqueID="10" OutlineLevel="4" Name="Cotizacion Harware Realizada" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="21" UniqueID="15" OutlineLevel="5" Name="Contruir Solicitud de Cotizacion" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="22" UniqueID="16" OutlineLevel="5" Name="Enviar Solicitud de Cotizacion" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="23" UniqueID="11" OutlineLevel="4" Name="Cotizacion Software Realizada" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="24" UniqueID="21" OutlineLevel="5" Name="Contruir Solicitud de Cotizacion" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="25" UniqueID="22" OutlineLevel="5" Name="Enviar Solicitud de Cotizacion" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="26" UniqueID="12" OutlineLevel="4" Name="Cotizacion Insumos Realizada" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="27" UniqueID="23" OutlineLevel="5" Name="Contruir Solicitud de Cotizacion" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="28" UniqueID="24" OutlineLevel="5" Name="Enviar Solicitud de Cotizacion" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="29" UniqueID="8" OutlineLevel="3" Name="Cotizacion de Mobiliario Realizada" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="30" UniqueID="13" OutlineLevel="4" Name="Cotizacion Escritorios Realizada" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="31" UniqueID="47" OutlineLevel="5" Name="Construir Solicitud de Cotizacion" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="32" UniqueID="48" OutlineLevel="5" Name="Enviar Solicitud de Cotizacion" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="33" UniqueID="14" OutlineLevel="4" Name="Contizacion Sillas Realizada" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="34" UniqueID="49" OutlineLevel="5" Name="Construir Solicitud de Cotizacion" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="35" UniqueID="50" OutlineLevel="5" Name="Enviar Solicitud de Cotizacion" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="36" UniqueID="4" OutlineLevel="2" Name="Pedidos Realizados" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="37" UniqueID="54" OutlineLevel="3" Name="Respuesta de Cotizaciones Verificadas" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="38" UniqueID="26" OutlineLevel="4" Name="Evaluacion de Costos" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="39" UniqueID="20" OutlineLevel="4" Name="Analizar Costo de Traslado" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="40" UniqueID="19" OutlineLevel="4" Name="Analizar Tiempo de Entrega" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="41" UniqueID="25" OutlineLevel="4" Name="Verificar Disponibilidad en Almacen" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="42" UniqueID="62" OutlineLevel="3" Name="Seleccionar Proveedores" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="43" UniqueID="64" OutlineLevel="4" Name="Evaluar Reputacion de Proveedor" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="44" UniqueID="65" OutlineLevel="4" Name="Evaluar Historial de Pedidos a Proveedor" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="45" UniqueID="27" OutlineLevel="3" Name="Pedidos Enviados" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="46" UniqueID="33" OutlineLevel="4" Name="Realizar Ordenes de Compra" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="47" UniqueID="34" OutlineLevel="4" Name="Realizar Pedido" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="48" UniqueID="6" OutlineLevel="2" Name="Equipamiento Entregado" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="49" UniqueID="28" OutlineLevel="3" Name="Equipamieto Arribado" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="50" UniqueID="30" OutlineLevel="4" Name="Recibir Mercaderia" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="51" UniqueID="31" OutlineLevel="4" Name="Catalogar Mercaderia" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="52" UniqueID="38" OutlineLevel="4" Name="Almacenar Mercaderia" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="53" UniqueID="29" OutlineLevel="3" Name="Equipamiento Verificado" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="54" UniqueID="35" OutlineLevel="4" Name="Controlar Calidad y Cantidad de Mercaderia" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="55" UniqueID="37" OutlineLevel="4" Name="Registrar Remitos y Facturas" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="15" UniqueID="53" OutlineLevel="4" Name="Verificar Cobertura de Requerimientos" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="16" UniqueID="3" OutlineLevel="2" Name="Cotizaciones Solicitadas" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="17" UniqueID="66" OutlineLevel="3" Name="Pedido de Cotizaci&#243;n Confeccionado" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="18" UniqueID="15" OutlineLevel="4" Name="Confeccionar Pedido de Cotizaci&#243;n de Hardware" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="19" UniqueID="69" OutlineLevel="4" Name="Confeccionar Pedido de Cotizaci&#243;n de Software" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="20" UniqueID="70" OutlineLevel="4" Name="Confeccionar Pedido de Cotizaci&#243;n de Insumos" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="21" UniqueID="77" OutlineLevel="4" Name="Confeccionar Pedido de Cotizaci&#243;n de Mobiliario" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="22" UniqueID="67" OutlineLevel="3" Name="Pedido de Cotizaciones Enviadas" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="23" UniqueID="71" OutlineLevel="4" Name="Seleccionar Proveedores Propuestos" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="24" UniqueID="72" OutlineLevel="4" Name="Enviar Pedido de Cotizaci&#243;n de Hardware" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="25" UniqueID="73" OutlineLevel="4" Name="Enviar Pedido de Cotizaci&#243;n de Software" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="26" UniqueID="74" OutlineLevel="4" Name="Enviar Pedido de Cotizaci&#243;n de Insumos" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="27" UniqueID="79" OutlineLevel="4" Name="Enviar Pedido de Cotizaci&#243;n de Mobiliario" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="28" UniqueID="4" OutlineLevel="2" Name="Pedidos Realizados" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="29" UniqueID="62" OutlineLevel="3" Name="Proveedores Seleccionados" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="30" UniqueID="26" OutlineLevel="4" Name="Realizar Evaluacion de Costos" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="31" UniqueID="19" OutlineLevel="4" Name="Analizar Tiempo de Entrega" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="32" UniqueID="64" OutlineLevel="4" Name="Evaluar Reputacion de Proveedor" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="33" UniqueID="27" OutlineLevel="3" Name="Pedidos Enviados" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="34" UniqueID="33" OutlineLevel="4" Name="Confeccionar Ordenes de Compra" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="35" UniqueID="34" OutlineLevel="4" Name="Realizar Pedidos de Compra a Proveedores" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="36" UniqueID="6" OutlineLevel="2" Name="Equipamiento Entregado" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="37" UniqueID="28" OutlineLevel="3" Name="Equipamieto Arribado" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="38" UniqueID="30" OutlineLevel="4" Name="Recibir Mercaderia" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="39" UniqueID="31" OutlineLevel="4" Name="Catalogar Mercaderia" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="40" UniqueID="38" OutlineLevel="4" Name="Almacenar Mercaderia" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="41" UniqueID="29" OutlineLevel="3" Name="Equipamiento Verificado" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="42" UniqueID="35" OutlineLevel="4" Name="Controlar Calidad y Cantidad de Mercaderia" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="43" UniqueID="37" OutlineLevel="4" Name="Registrar Remitos y Facturas" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 		</tasks>
-		<outline current="65"/>
+		<outline current="37"/>
 	</proj>
 	<printInfo mode="scale" orient="landscape" pagesWide="1" pagesHigh="1" scale="100%" bw="no" enlarge="no" byColumn="no" adjustPageBreaks="no" marginTop="36pt" marginLeft="36pt" marginBottom="36pt" marginRight="36pt"/>
 	<pageLayouts>
@@ -508,6 +496,84 @@
 				</row>
 			</grid>
 <wbs_diff>
+	<treediff id="55">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="56">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="60">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="61">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="45">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="46">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="53">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="15">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="69">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="70">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="77">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="71">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="72">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="73">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="74">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="79">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="26">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="19">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="64">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="33">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="34">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="30">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="31">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="38">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="35">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="37">
+		<item listmode="stemleft"/>
+	</treediff>
 </wbs_diff>
 
 		</wbs_view>
