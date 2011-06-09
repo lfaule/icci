@@ -51,16 +51,8 @@
 			<task ID="33" UniqueID="27" OutlineLevel="3" Name="Pedidos Enviados" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="34" UniqueID="33" OutlineLevel="4" Name="Confeccionar Ordenes de Compra" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="35" UniqueID="34" OutlineLevel="4" Name="Realizar Pedidos de Compra a Proveedores" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="36" UniqueID="6" OutlineLevel="2" Name="Equipamiento Entregado" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="37" UniqueID="28" OutlineLevel="3" Name="Equipamieto Arribado" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="38" UniqueID="30" OutlineLevel="4" Name="Recibir Mercaderia" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="39" UniqueID="31" OutlineLevel="4" Name="Catalogar Mercaderia" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="40" UniqueID="38" OutlineLevel="4" Name="Almacenar Mercaderia" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="41" UniqueID="29" OutlineLevel="3" Name="Equipamiento Verificado" Duration="1d" RemainingDuration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="42" UniqueID="35" OutlineLevel="4" Name="Controlar Calidad y Cantidad de Mercaderia" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="43" UniqueID="37" OutlineLevel="4" Name="Registrar Remitos y Facturas" Duration="1d" Start="2011-05-17T08:00" Finish="2011-05-17T17:00" EarlyStart="2011-05-17T08:00" EarlyFinish="2011-05-17T17:00" LateStart="2011-05-17T08:00" LateFinish="2011-05-17T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 		</tasks>
-		<outline current="37"/>
+		<outline current="34"/>
 	</proj>
 	<printInfo mode="scale" orient="landscape" pagesWide="1" pagesHigh="1" scale="100%" bw="no" enlarge="no" byColumn="no" adjustPageBreaks="no" marginTop="36pt" marginLeft="36pt" marginBottom="36pt" marginRight="36pt"/>
 	<pageLayouts>
@@ -557,21 +549,6 @@
 		<item listmode="stemleft"/>
 	</treediff>
 	<treediff id="34">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="30">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="31">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="38">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="35">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="37">
 		<item listmode="stemleft"/>
 	</treediff>
 </wbs_diff>
