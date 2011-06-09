@@ -16,26 +16,37 @@
 		<summary ScheduleFromStart="yes" CalculateCostProgress="no" MultipleCriticalPaths="no" CriticalSlack="0d" Name="WBS_Docentes_Capacitados" Title="WBS_Docentes_Capacitados" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00"/>
 		<tasks>
 			<task ID="0" UniqueID="0" OutlineLevel="0" Name="WBS_Docentes_Capacitados" Duration="1d" RemainingDuration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes"/>
-			<task ID="1" UniqueID="24" OutlineLevel="1" Name="Funes No Trabajando" Duration="1d" RemainingDuration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="1" UniqueID="22" OutlineLevel="1" Name="Docentes Capacitados" Duration="1d" RemainingDuration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="2" UniqueID="4" OutlineLevel="2" Name="Capacitadores seleccionados" Duration="1d" RemainingDuration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="3" UniqueID="12" OutlineLevel="3" Name="M&#233;todo de selecci&#243;n" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="4" UniqueID="10" OutlineLevel="3" Name="Capcitadores propuestos" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="5" UniqueID="11" OutlineLevel="3" Name="Concurso de selecci&#243;n" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="6" UniqueID="5" OutlineLevel="2" Name="Programa de contenidos" Duration="1d" RemainingDuration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="7" UniqueID="13" OutlineLevel="3" Name="Planificaci&#243;n de objetivos" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="8" UniqueID="14" OutlineLevel="3" Name="Temario establecido" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="9" UniqueID="15" OutlineLevel="3" Name="Actividades establecidas" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="10" UniqueID="16" OutlineLevel="3" Name="Material de estudio establecido" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="11" UniqueID="6" OutlineLevel="2" Name="Capacitaci&#243;n docente" Duration="1d" RemainingDuration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="12" UniqueID="20" OutlineLevel="3" Name="Capacitaci&#243;n centralizada" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="13" UniqueID="21" OutlineLevel="3" Name="Capacitaci&#243;n Itinerante" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="14" UniqueID="8" OutlineLevel="3" Name="Plan de acci&#243;n aprobado" Duration="1d" RemainingDuration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="15" UniqueID="7" OutlineLevel="2" Name="Docentes seleccionados" Duration="1d" RemainingDuration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="16" UniqueID="17" OutlineLevel="3" Name="M&#233;todo de selecci&#243;n" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="17" UniqueID="18" OutlineLevel="3" Name="Docentes propuestos" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="18" UniqueID="19" OutlineLevel="3" Name="Concurso de selecci&#243;n" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="3" UniqueID="23" OutlineLevel="3" Name="Confeccionar m&#233;todo de selecci&#243;n" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="4" UniqueID="24" OutlineLevel="3" Name="Invitar Instituciones Educativas" Duration="1d" RemainingDuration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="5" UniqueID="10" OutlineLevel="3" Name="Recibir capacitadores propuestos" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="6" UniqueID="11" OutlineLevel="3" Name="Elegir capacitadores" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="7" UniqueID="5" OutlineLevel="2" Name="Programa de contenidos" Duration="1d" RemainingDuration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="8" UniqueID="13" OutlineLevel="3" Name="Definir objetivos" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="9" UniqueID="14" OutlineLevel="3" Name="Confeccionar temario" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="10" UniqueID="15" OutlineLevel="3" Name="Confeccionar actividades" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="11" UniqueID="16" OutlineLevel="3" Name="Seleccionar y preparar material de estudio" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="12" UniqueID="31" OutlineLevel="3" Name="Establecer duraci&#243;n y m&#233;todo de capacitaci&#243;n" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="13" UniqueID="7" OutlineLevel="2" Name="Docentes seleccionados" Duration="1d" RemainingDuration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="14" UniqueID="25" OutlineLevel="3" Name="Comunicar caracter&#237;sticas del docente requerido" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="15" UniqueID="18" OutlineLevel="3" Name="Docentes propuestos por las escuelas" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="16" UniqueID="19" OutlineLevel="3" Name="Aprobaci&#243;n de los docentes propuestos" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="17" UniqueID="6" OutlineLevel="2" Name="Capacitaci&#243;n docente" Duration="1d" RemainingDuration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="18" UniqueID="21" OutlineLevel="3" Name="Capacitaci&#243;n Itinerante" Duration="1d" RemainingDuration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="19" UniqueID="35" OutlineLevel="4" Name="Coordinar cronograma de visitas" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="20" UniqueID="36" OutlineLevel="4" Name="Dictar capacitacion" Duration="1d" RemainingDuration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="21" UniqueID="8" OutlineLevel="4" Name="Aprobar plan de accion" Duration="1d" RemainingDuration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="22" UniqueID="20" OutlineLevel="3" Name="Capacitaci&#243;n centralizada" Duration="1d" RemainingDuration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="23" UniqueID="37" OutlineLevel="4" Name="Dictar capacitacion" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="24" UniqueID="26" OutlineLevel="4" Name="Construir y coordinar cronograma de llegada de docentes" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="25" UniqueID="28" OutlineLevel="4" Name="Preparar materiales de estudio" Duration="1d" RemainingDuration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="26" UniqueID="30" OutlineLevel="4" Name="Preparar aulas de Instituciones educativas" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="27" UniqueID="32" OutlineLevel="4" Name="Preparar alojamiento de los docentes" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="28" UniqueID="33" OutlineLevel="4" Name="Recibir y ubicar a los docentes" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="29" UniqueID="38" OutlineLevel="4" Name="Plantear plan de accion a implementar" Duration="1d" Start="2011-05-25T08:00" Finish="2011-05-25T17:00" EarlyStart="2011-05-25T08:00" EarlyFinish="2011-05-25T17:00" LateStart="2011-05-25T08:00" LateFinish="2011-05-25T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 		</tasks>
-		<outline current="24"/>
+		<outline current="8"/>
 	</proj>
 	<printInfo mode="scale" orient="landscape" pagesWide="1" pagesHigh="1" scale="100%" bw="no" enlarge="no" byColumn="no" adjustPageBreaks="no" marginTop="36pt" marginLeft="36pt" marginBottom="36pt" marginRight="36pt"/>
 	<pageLayouts>
@@ -224,6 +235,9 @@
 					<cell field="Finish" format="1" left_p="3.6pt" right_p="3.6pt" top_p="0.7pt" bottom_p="0.7pt" left_s="solid" top_s="solid"/>
 				</row>
 			</grid>
+<wbs_diff>
+</wbs_diff>
+
 		</wbs_view>
 		<wbs_view id="Critical Path View" pagelayout="Page Layout 1" outlinesymbolpos="bottomcenter">
 			<item id="summary" before="14.4pt"/>
@@ -266,6 +280,12 @@
 				</row>
 			</grid>
 <wbs_diff>
+	<treediff id="35">
+		<item calign="independent" adjust="4.5pt"/>
+	</treediff>
+	<treediff id="8">
+		<item before="41.15pt"/>
+	</treediff>
 </wbs_diff>
 
 		</wbs_view>
@@ -459,6 +479,74 @@
 				</row>
 			</grid>
 <wbs_diff>
+	<treediff id="23">
+		<item listmode="stemleft">
+		</item>
+	</treediff>
+	<treediff id="24">
+		<item calign="branch_nearest" listmode="stemleft">
+		</item>
+	</treediff>
+	<treediff id="10">
+		<item calign="branch_nearest" listmode="stemleft">
+		</item>
+	</treediff>
+	<treediff id="11">
+		<item calign="branch_nearest" listmode="stemleft">
+		</item>
+	</treediff>
+	<treediff id="13">
+		<item listmode="stemleft">
+		</item>
+	</treediff>
+	<treediff id="14">
+		<item listmode="stemleft">
+		</item>
+	</treediff>
+	<treediff id="15">
+		<item listmode="stemleft">
+		</item>
+	</treediff>
+	<treediff id="16">
+		<item listmode="stemleft">
+		</item>
+	</treediff>
+	<treediff id="31">
+		<item calign="branch_nearest" listmode="stemleft">
+		</item>
+	</treediff>
+	<treediff id="25">
+		<item listmode="stemleft">
+		</item>
+	</treediff>
+	<treediff id="18">
+		<item listmode="stemleft">
+		</item>
+	</treediff>
+	<treediff id="19">
+		<item listmode="stemleft">
+		</item>
+	</treediff>
+	<treediff id="26">
+		<item listmode="stemleft">
+		</item>
+	</treediff>
+	<treediff id="28">
+		<item listmode="stemleft">
+		</item>
+	</treediff>
+	<treediff id="30">
+		<item listmode="stemleft">
+		</item>
+	</treediff>
+	<treediff id="32">
+		<item listmode="stemleft">
+		</item>
+	</treediff>
+	<treediff id="33">
+		<item calign="branch_nearest" listmode="stemleft">
+		</item>
+	</treediff>
 </wbs_diff>
 
 		</wbs_view>
