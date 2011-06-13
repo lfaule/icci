@@ -135,30 +135,30 @@
 			<task ID="117" UniqueID="243" OutlineLevel="4" Name="Comunicar a instituciones educativas" Duration="1d" RemainingDuration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="118" UniqueID="245" OutlineLevel="4" Name="Evaluar capacitadores" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="119" UniqueID="246" OutlineLevel="3" Name="Programa de contenidos" Duration="1d" RemainingDuration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="120" UniqueID="247" OutlineLevel="4" Name="Definir objetivos" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="120" UniqueID="247" OutlineLevel="4" Name="Definir objetivos espec&#237;ficos" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="121" UniqueID="248" OutlineLevel="4" Name="Confeccionar temario" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="122" UniqueID="249" OutlineLevel="4" Name="Confeccionar actividades" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="123" UniqueID="250" OutlineLevel="4" Name="Seleccionar y preparar material de estudio" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="124" UniqueID="251" OutlineLevel="4" Name="Gestionar  material de estudio" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="125" UniqueID="271" OutlineLevel="4" Name="Establecer duraci&#243;n y m&#233;todo de capacitaci&#243;n" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="123" UniqueID="271" OutlineLevel="4" Name="Establecer duraci&#243;n y m&#233;todo de capacitaci&#243;n" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="124" UniqueID="250" OutlineLevel="4" Name="Definir material de estudio" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="125" UniqueID="251" OutlineLevel="4" Name="Gestionar  material de estudio" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="126" UniqueID="252" OutlineLevel="3" Name="Docentes seleccionados" Duration="1d" RemainingDuration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="127" UniqueID="270" OutlineLevel="4" Name="Confeccionar perfil del docente" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="128" UniqueID="253" OutlineLevel="4" Name="Comunicar perfil a escuelas" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="129" UniqueID="255" OutlineLevel="4" Name="Evaluar docentes" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="130" UniqueID="256" OutlineLevel="3" Name="Capacitaci&#243;n docente" Duration="1d" RemainingDuration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="131" UniqueID="261" OutlineLevel="4" Name="Capacitaci&#243;n centralizada" Duration="1d" RemainingDuration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="132" UniqueID="263" OutlineLevel="5" Name="Construir y coordinar cronograma de llegada de docentes" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="133" UniqueID="265" OutlineLevel="5" Name="Preparar aulas de instituciones educativas" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="134" UniqueID="266" OutlineLevel="5" Name="Preparar alojamiento de los docentes" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="135" UniqueID="267" OutlineLevel="5" Name="Recibir y ubicar a los docentes" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="136" UniqueID="262" OutlineLevel="5" Name="Dictar capacitaci&#243;n" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="137" UniqueID="268" OutlineLevel="5" Name="Plantear plan de acci&#243;n a implementar" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="138" UniqueID="257" OutlineLevel="4" Name="Capacitaci&#243;n itinerante" Duration="1d" RemainingDuration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="139" UniqueID="258" OutlineLevel="5" Name="Coordinar cronograma de visitas" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="132" UniqueID="263" OutlineLevel="5" Name="Construir cronograma de llegada y estad&#237;a de docentes" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="133" UniqueID="266" OutlineLevel="5" Name="Preparar alojamiento de los docentes" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="134" UniqueID="265" OutlineLevel="5" Name="Coordinar llegada de docentes" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="135" UniqueID="262" OutlineLevel="5" Name="Dictar capacitaci&#243;n" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="136" UniqueID="268" OutlineLevel="5" Name="Plantear plan de acci&#243;n a implementar" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="137" UniqueID="257" OutlineLevel="4" Name="Capacitaci&#243;n itinerante" Duration="1d" RemainingDuration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="138" UniqueID="258" OutlineLevel="5" Name="Coordinar cronograma de visitas" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="139" UniqueID="290" OutlineLevel="5" Name="Gestionar visita de los capacitadores" Duration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="140" UniqueID="259" OutlineLevel="5" Name="Dictar capacitaci&#243;n" Duration="1d" RemainingDuration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="141" UniqueID="260" OutlineLevel="5" Name="Aprobar plan de acci&#243;n" Duration="1d" RemainingDuration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="141" UniqueID="260" OutlineLevel="5" Name="Presentar plan de acci&#243;n" Duration="1d" RemainingDuration="1d" Start="2011-06-09T08:00" Finish="2011-06-09T17:00" EarlyStart="2011-06-09T08:00" EarlyFinish="2011-06-09T17:00" LateStart="2011-06-09T08:00" LateFinish="2011-06-09T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 		</tasks>
-		<outline current="280"/>
+		<outline current="260"/>
 	</proj>
 	<printInfo mode="scale" orient="landscape" pagesWide="1" pagesHigh="1" scale="100%" bw="no" enlarge="no" byColumn="no" adjustPageBreaks="no" marginTop="36pt" marginLeft="36pt" marginBottom="36pt" marginRight="36pt"/>
 	<pageLayouts>
@@ -548,8 +548,6 @@
 				</row>
 			</grid>
 <wbs_diff>
-
-
 </wbs_diff>
 
 		</wbs_view>
@@ -590,8 +588,6 @@
 				</row>
 			</grid>
 <wbs_diff>
-
-
 </wbs_diff>
 
 		</wbs_view>
@@ -620,8 +616,6 @@
 		<item calign="branch_nearest">
 		</item>
 	</treediff>
-
-
 </wbs_diff>
 
 		</wbs_view>
